@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github.com/wildonion/elyon/blob/kagerou/src/HardLab/Kagerou/kagerou.png">
+    <img src="https://github.com/wildonion/kagerou/blob/master/kagerou.png">
 </p>
 
 
