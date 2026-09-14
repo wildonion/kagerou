@@ -1,0 +1,13 @@
+bin/
+obj/
+models/
+sdk/
+out_*/
+trt_engines/
+_trt_*/
+*.exe
+*.dll
+*.mp4
+*.h264
+*.log
+_kagerou_tmp_*
